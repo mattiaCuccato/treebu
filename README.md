@@ -9,10 +9,13 @@ database -> treebu
 ESECUZIONE:
 
 client -> 1. npm install / yarn install
+
 	  2. npm run serve / yarn serve
 
 server -> 1. composer install / composer update
+
 	  2. php artisan migrate (assicurarsi di aver creato il db)
+
 	  3. php artisan serve
 #
 ROUTE:
