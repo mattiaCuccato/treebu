@@ -10,8 +10,6 @@
             <div class="flex flex-column" v-if="orderD==false">
                 View: <span class="font-bold">&nbsp;Dimensione ASC</span>
             </div>
-        
-        
             <div class="flex flex-column ml-10" v-if="orderD==true">
                 <div class="flex mr-2 m-auto">
                     <span> ASC </span>
